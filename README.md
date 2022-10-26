@@ -19,7 +19,7 @@ Użytkownik znajduję się na stronie: <https://testuj.pl/karta-szkolenia/akadem
 
 1. Przewijamy stronę niżej do treści “Dlaczego warto wziąć udział w Akademii Automatyzacji?”.
 1. Po prawej stronie w oknie opinii klikamy strzałkę w prawo do momentu wyświetlenia opinii
-   ` `Pana Pawła Soczewskiego.
+   Pana Pawła Soczewskiego.
 
 
 
